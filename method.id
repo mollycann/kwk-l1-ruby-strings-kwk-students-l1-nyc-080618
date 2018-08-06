@@ -1,0 +1,6 @@
+def two_step 
+puts "Step to the right."
+puts "Step to the left." 
+end 
+
+two_step 
